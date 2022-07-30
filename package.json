@@ -84,7 +84,7 @@
   },
   "dependencies": {
     "puppeteer": "^15.1.1",
-    "puppeteer-pretty-console": "1.0.0",
+    "puppeteer-pretty-console": "1.0.1",
     "vite": "^2.8.6",
     "vite-open": "2.4.0"
   },
