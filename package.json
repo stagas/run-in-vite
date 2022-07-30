@@ -5,7 +5,6 @@
   "description": "runs a single function in vite using puppeteer",
   "version": "0.0.1",
   "license": "MIT",
-  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://git@github.com:stagas/run-in-vite.git"
